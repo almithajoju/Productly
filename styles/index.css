@@ -202,3 +202,57 @@ section {
     margin-left: 400px;
     margin-bottom: 29px;
 }
+
+.row{
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+.icon{
+    width: 51px;
+    height: 50px;
+    margin-bottom: 30px;
+    justify-content: start;
+    margin-right: 310px;
+}
+
+.col h4{
+    color: #2F281E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    align-items: start;
+    margin-bottom: 12px;
+}
+
+.col p{
+    width: 240px;
+    color: #544837;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+
+.signup-now{
+    text-align: center;
+    margin-top: 60px;
+}   
+
+.signup-now-btn{
+    width: 175px;
+    height: 53px;
+    border-radius: 4px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
